@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Набор массы — Новичок 3×",
+    "goal": "mass",
+    "level": "beginner",
+    "days_per_week": 3,
+    "days": {
+      "A": [
+        {"exercise": "Жим штанги лёжа",        "sets": 3, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Тяга верхнего блока",     "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Жим гантелей сидя",       "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Сгибание рук со штангой", "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Трицепс на блоке (верхний)", "sets": 3, "reps_min": 12, "reps_max": 15}
+      ],
+      "B": [
+        {"exercise": "Приседания со штангой",   "sets": 3, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Румынская тяга",          "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Жим ногами",             "sets": 3, "reps_min": 10, "reps_max": 15},
+        {"exercise": "Разгибание ног в тренажёре", "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Подъём на носки стоя",   "sets": 4, "reps_min": 15, "reps_max": 20}
+      ],
+      "C": [
+        {"exercise": "Тяга штанги в наклоне",  "sets": 3, "reps_min": 8,  "reps_max": 10},
+        {"exercise": "Жим гантелей лёжа",      "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Разводка гантелей стоя", "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Молотковые сгибания",    "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Планка",                 "sets": 3, "reps_min": 30, "reps_max": 60}
+      ]
+    }
+  },
+  {
+    "name": "Набор массы — Средний 4×",
+    "goal": "mass",
+    "level": "mid",
+    "days_per_week": 4,
+    "days": {
+      "A": [
+        {"exercise": "Жим штанги лёжа",           "sets": 4, "reps_min": 6,  "reps_max": 10},
+        {"exercise": "Жим гантелей лёжа",         "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Кроссовер на блоке",        "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Отжимания на брусьях",      "sets": 3, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Французский жим",           "sets": 3, "reps_min": 10, "reps_max": 12}
+      ],
+      "B": [
+        {"exercise": "Приседания со штангой",     "sets": 4, "reps_min": 6,  "reps_max": 10},
+        {"exercise": "Румынская тяга",            "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Жим ногами",               "sets": 3, "reps_min": 10, "reps_max": 15},
+        {"exercise": "Выпады с гантелями",        "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Подъём на носки стоя",     "sets": 4, "reps_min": 15, "reps_max": 20}
+      ],
+      "C": [
+        {"exercise": "Подтягивания",             "sets": 4, "reps_min": 6,  "reps_max": 10},
+        {"exercise": "Тяга штанги в наклоне",    "sets": 4, "reps_min": 8,  "reps_max": 10},
+        {"exercise": "Тяга нижнего блока",       "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Сгибание рук со штангой",  "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Молотковые сгибания",      "sets": 3, "reps_min": 10, "reps_max": 12}
+      ],
+      "D": [
+        {"exercise": "Жим штанги стоя",          "sets": 4, "reps_min": 6,  "reps_max": 10},
+        {"exercise": "Разводка гантелей стоя",   "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Тяга к подбородку",        "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Планка",                   "sets": 3, "reps_min": 45, "reps_max": 60},
+        {"exercise": "Русские скручивания",      "sets": 3, "reps_min": 15, "reps_max": 20}
+      ]
+    }
+  },
+  {
+    "name": "Похудение — Новичок 3×",
+    "goal": "cut",
+    "level": "beginner",
+    "days_per_week": 3,
+    "days": {
+      "A": [
+        {"exercise": "Жим в тренажёре",          "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Тяга верхнего блока",      "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Жим в тренажёре для плеч", "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Трицепс на блоке (верхний)", "sets": 3, "reps_min": 15, "reps_max": 20},
+        {"exercise": "Сгибание на блоке",        "sets": 3, "reps_min": 15, "reps_max": 20}
+      ],
+      "B": [
+        {"exercise": "Жим ногами",               "sets": 4, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Сгибание ног лёжа",        "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Разгибание ног в тренажёре","sets": 3, "reps_min": 15, "reps_max": 20},
+        {"exercise": "Подъём на носки стоя",     "sets": 4, "reps_min": 20, "reps_max": 25},
+        {"exercise": "Планка",                   "sets": 3, "reps_min": 30, "reps_max": 45}
+      ],
+      "C": [
+        {"exercise": "Отжимания",                "sets": 4, "reps_min": 10, "reps_max": 15},
+        {"exercise": "Тяга нижнего блока",       "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Разводка гантелей стоя",   "sets": 3, "reps_min": 15, "reps_max": 20},
+        {"exercise": "Скручивания",              "sets": 3, "reps_min": 20, "reps_max": 25},
+        {"exercise": "Русские скручивания",      "sets": 3, "reps_min": 15, "reps_max": 20}
+      ]
+    }
+  },
+  {
+    "name": "Тонус — Новичок 2×",
+    "goal": "tone",
+    "level": "beginner",
+    "days_per_week": 2,
+    "days": {
+      "A": [
+        {"exercise": "Жим гантелей лёжа",        "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Тяга гантели в наклоне",   "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Жим гантелей сидя",        "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Сгибание рук с гантелями", "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Планка",                   "sets": 3, "reps_min": 30, "reps_max": 45}
+      ],
+      "B": [
+        {"exercise": "Гоблет-приседание",        "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Румынская тяга с гантелями","sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Выпады с гантелями",       "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Подъём на носки с гантелями","sets": 3,"reps_min": 15, "reps_max": 20},
+        {"exercise": "Скручивания",              "sets": 3, "reps_min": 20, "reps_max": 25}
+      ]
+    }
+  },
+  {
+    "name": "Набор массы — Продвинутый 5×",
+    "goal": "mass",
+    "level": "adv",
+    "days_per_week": 5,
+    "days": {
+      "A": [
+        {"exercise": "Жим штанги лёжа",        "sets": 5, "reps_min": 5,  "reps_max": 8},
+        {"exercise": "Жим гантелей лёжа",      "sets": 4, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Разводка гантелей лёжа", "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Кроссовер на блоке",     "sets": 3, "reps_min": 15, "reps_max": 20},
+        {"exercise": "Отжимания на брусьях",   "sets": 4, "reps_min": 10, "reps_max": 15}
+      ],
+      "B": [
+        {"exercise": "Приседания со штангой",  "sets": 5, "reps_min": 5,  "reps_max": 8},
+        {"exercise": "Жим ногами",            "sets": 4, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Болгарские выпады",      "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Разгибание ног в тренажёре","sets": 3,"reps_min": 12,"reps_max": 15},
+        {"exercise": "Подъём на носки стоя",  "sets": 5, "reps_min": 15, "reps_max": 20}
+      ],
+      "C": [
+        {"exercise": "Становая тяга",          "sets": 5, "reps_min": 4,  "reps_max": 6},
+        {"exercise": "Подтягивания",           "sets": 4, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Тяга штанги в наклоне", "sets": 4, "reps_min": 8,  "reps_max": 10},
+        {"exercise": "Тяга нижнего блока",    "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Тяга верхнего блока",   "sets": 3, "reps_min": 12, "reps_max": 15}
+      ],
+      "D": [
+        {"exercise": "Жим штанги стоя",       "sets": 4, "reps_min": 6,  "reps_max": 8},
+        {"exercise": "Тяга к подбородку",     "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Разводка гантелей стоя","sets": 4, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Разводка на блоке стоя","sets": 3, "reps_min": 15, "reps_max": 20},
+        {"exercise": "Тяга гантелей к подбородку","sets": 3,"reps_min": 12,"reps_max": 15}
+      ],
+      "E": [
+        {"exercise": "Сгибание рук со штангой", "sets": 4, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Молотковые сгибания",     "sets": 3, "reps_min": 10, "reps_max": 12},
+        {"exercise": "Сгибание на блоке",       "sets": 3, "reps_min": 12, "reps_max": 15},
+        {"exercise": "Французский жим",         "sets": 4, "reps_min": 8,  "reps_max": 12},
+        {"exercise": "Подъём ног в висе",       "sets": 4, "reps_min": 12, "reps_max": 15}
+      ]
+    }
+  }
+]

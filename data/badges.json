@@ -1,0 +1,17 @@
+[
+  {"code": "first_workout",     "name": "Первый шаг",        "icon": "🏋️", "description": "Завершить первую тренировку",           "condition_type": "workouts_total",   "condition_value": 1},
+  {"code": "subscriber",        "name": "Подписчик",         "icon": "⭐", "description": "Оформить подписку",                    "condition_type": "subscription",     "condition_value": 1},
+  {"code": "onboarded",         "name": "Готов к работе",    "icon": "✅", "description": "Пройти онбординг",                     "condition_type": "onboarding",       "condition_value": 1},
+  {"code": "streak_4w",         "name": "Месяц силы",        "icon": "🔥", "description": "Стрик 4 недели",                       "condition_type": "streak_weeks",     "condition_value": 4},
+  {"code": "streak_8w",         "name": "2 месяца силы",     "icon": "💥", "description": "Стрик 8 недель",                       "condition_type": "streak_weeks",     "condition_value": 8},
+  {"code": "streak_12w",        "name": "Квартал силы",      "icon": "⚡", "description": "Стрик 12 недель",                      "condition_type": "streak_weeks",     "condition_value": 12},
+  {"code": "volume_50k",        "name": "Полтонны",          "icon": "📦", "description": "Поднять 50 000 кг суммарно",           "condition_type": "volume_total_kg",  "condition_value": 50000},
+  {"code": "volume_200k",       "name": "200 тонн",          "icon": "🚛", "description": "Поднять 200 000 кг суммарно",          "condition_type": "volume_total_kg",  "condition_value": 200000},
+  {"code": "volume_10k_session","name": "10 тонн за раз",   "icon": "💪", "description": "10 000 кг за одну тренировку",         "condition_type": "volume_session_kg","condition_value": 10000},
+  {"code": "workouts_10",       "name": "Десятка",           "icon": "🥉", "description": "10 тренировок",                        "condition_type": "workouts_total",   "condition_value": 10},
+  {"code": "workouts_25",       "name": "25 тренировок",     "icon": "🥈", "description": "25 тренировок",                        "condition_type": "workouts_total",   "condition_value": 25},
+  {"code": "workouts_50",       "name": "50 тренировок",     "icon": "🥇", "description": "50 тренировок",                        "condition_type": "workouts_total",   "condition_value": 50},
+  {"code": "workouts_100",      "name": "Сотня",             "icon": "🏆", "description": "100 тренировок",                       "condition_type": "workouts_total",   "condition_value": 100},
+  {"code": "on_point_master",   "name": "В точку",           "icon": "🎯", "description": "5 оценок «В точку» за одну тренировку","condition_type": "on_point_session", "condition_value": 5},
+  {"code": "adaptive",          "name": "Адаптивный",        "icon": "🔄", "description": "Заменить упражнение 10 раз всего",     "condition_type": "replacements_total","condition_value": 10}
+]
